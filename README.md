@@ -64,7 +64,7 @@ The **SEO Roadmap** stands out because of its structured, comprehensive approach
 1. **Clone the Repository**: Download the SEO Roadmap guide by cloning this repository or downloading the ZIP file.
 
    ```bash
-   git clone https://github.com/BrockAltug/seo-roadmap.git
+   git clone https://github.com/SoftEdgeDevelopment/seo-roadmap.git
    ```
 
 2. **Follow Along**: Begin by navigating to the [SEO.md](./SEO.md) file and exploring the various sections of the roadmap.
